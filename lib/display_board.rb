@@ -3,7 +3,7 @@
 
 
 def display_board (board)
-  rows = ["O"," ","X"," "," "," "," "," "," "]
+  rows = [""," ",""," "," "," "," "," "," "]
   puts " #{rows[0]}  |   |   "
   puts "-----------"
   puts "   | #{rows[2]} |   "
