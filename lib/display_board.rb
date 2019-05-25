@@ -3,8 +3,8 @@
 
 
 def display_board (board)
-  rows = [" "," ","X"," "," "," "," "," "," "]
-  puts "   |   |   "
+  rows = ["O"," ","X"," "," "," "," "," "," "]
+  puts " #{rows[0]}  |   |   "
   puts "-----------"
   puts "   | #{rows[2]} |   "
   puts "-----------"
