@@ -12,7 +12,7 @@ def display_board (board)
   
 end
 
-def dispaly_board (row)
+def dispaly_board (board)
   puts "   |   |   "
   puts "-----------"
   puts "   | X |   "
