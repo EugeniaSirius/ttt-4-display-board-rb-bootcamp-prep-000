@@ -3,10 +3,10 @@
 
 
 def display_board (board)
-  rows = [" "," "," "," "," "," "," "," "," "]
-  puts " #{rows[0]}  |   |   "
+  #rows = [" "," "," "," "," "," "," "," "," "]
+  puts "   |   |   "
   puts "-----------"
-  puts "   | #{rows[2]} |   "
+  puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
  
