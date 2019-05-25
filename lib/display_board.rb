@@ -11,6 +11,5 @@ def display_board (board)
   puts "   |   |   "
 end
 
-def display_board(row)
-  row[2]=[" ",""]
+
   
